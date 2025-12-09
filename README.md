@@ -10,10 +10,10 @@ Welcome to Syntaxility — a technology consultancy and product studio that buil
 
 ## Quick facts
 - Company: Syntaxility
-- Industry: Software Engineering, Artificial Intelligence, Data Engineering, Cloud Services
-- Headquarters: Remote / Distributed (or specify city)
-- Website: https://syntaxility.example.com (replace with your URL)
-- Contact: contact@syntaxility.example.com (replace with your email)
+- Industry: Software Engineering, Artificial Intelligence, Data Engineering, Cloud Services, app developments, Web developments, Desktop developments
+- Headquarters: Remote
+- Website: future updates
+- Contact: johnbrrighte@engineer.com
 
 ---
 
