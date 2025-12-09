@@ -12,8 +12,8 @@ Welcome to Syntaxility — a technology consultancy and product studio that buil
 - Company: Syntaxility
 - Industry: Software Engineering, Artificial Intelligence, Data Engineering, Cloud Services, app developments, Web developments, Desktop developments
 - Headquarters: Remote
-- Website: future updates
-- Contact: johnbrrighte@engineer.com
+- Website: **"future updates"**
+- Contact: info.syntaxility@gmail.com
 
 ---
 
@@ -90,9 +90,9 @@ If your industry isn’t listed, reach out — we love new challenges.
 ---
 
 ## Typical engagements / How we work
-- Discovery Sprint (1–4 weeks): rapid product discovery, feasibility study, and MVP definition.
-- MVP & Iteration (4–12+ weeks): build a production-grade MVP, test with real users, measure impact.
-- Scale & Operate (ongoing): performance tuning, model ops, platform hardening, and growth engineering.
+- **Discovery Sprint (1–4 weeks):** rapid product discovery, feasibility study, and MVP definition.
+- **MVP & Iteration (4–12+ weeks):** build a production-grade MVP, test with real users, measure impact.
+- **Scale & Operate (ongoing):** performance tuning, model ops, platform hardening, and growth engineering.
 
 Engagement models:
 - Fixed-price sprint for well-defined problems
@@ -108,27 +108,21 @@ Engagement models:
 - Managed Services — monthly retainer (SLA-based)
 - Professional Services — hourly/day rates for advisory work
 
-(We provide tailored proposals after a short scoping call. Contact us for a quote.)
-
 ---
 
 ## Founder & Leadership
 
-Tariq Mehmood — Founder & CEO  
-(You can replace or expand this with your actual founder bio.)
-
-Tariq is a product-minded engineer with experience building web platforms, AI integrations, and developer tools. He leads Syntaxility’s technical strategy and client engagement, focusing on fast iteration, pragmatic architecture, and responsible AI delivery. GitHub: @TariqMehmood1004
-
-(Expand this section with other leadership/team bios, LinkedIn profiles and photographs as appropriate.)
+**Tariq Mehmood — Founder & CEO**
+Tariq is a product-minded engineer with experience building web platforms, AI integrations, and developer tools. I am leading Syntaxility’s technical strategy and client engagement, focusing on fast iteration, pragmatic architecture, and responsible AI delivery. GitHub: [@TariqMehmood1004](https://github.com/TariqMehmood1004)
 
 ---
 
 ## Why choose Syntaxility?
 
-- Pragmatic delivery: We prioritize working, testable software and measurable business outcomes.
-- End-to-end capability: from product discovery to deployed systems and ongoing ops.
-- Responsible AI: we embed safety, privacy, and interpretability into AI projects.
-- Transparent partnerships: clear roadmaps, realistic timelines and proactive communication.
+- **Pragmatic delivery:** We prioritize working, testable software and measurable business outcomes.
+- **End-to-end capability:** from product discovery to deployed systems and ongoing ops.
+- **Responsible AI:** we embed safety, privacy, and interpretability into AI projects.
+- **Transparent partnerships:** clear roadmaps, realistic timelines and proactive communication.
 - Flexible engagement models to match your budget and speed requirements.
 
 ---
@@ -137,8 +131,6 @@ Tariq is a product-minded engineer with experience building web platforms, AI in
 - Customer Support Assistant — reduced average handle time by 30% by deploying an AI assistant that surfaced KB articles and drafted response suggestions.
 - Automated Image Personalization — scaled product image generation for a retail brand with cost controls and CDN delivery.
 - Secure JWT Auth Library — created a reusable authentication package for distributed services, enabling secure token rotation and revocation.
-
-(Replace with real client names, metrics and links once available. Add permission-based testimonials.)
 
 ---
 
@@ -151,9 +143,9 @@ Tariq is a product-minded engineer with experience building web platforms, AI in
 ---
 
 ## Partnerships & Certifications
-- Cloud Partners: AWS / Google Cloud / Azure (examples — add your actual partnerships)
+- Cloud Partners: AWS / Google Cloud / Azure
 - Tools & Integrations: Docker, Kubernetes, Terraform, Sentry, Prometheus
-- Certifications: (Add any team or company certifications: ISO, SOC, cloud certs)
+- Certifications: **"future update"**
 
 ---
 
@@ -164,7 +156,7 @@ At Syntaxility we hire curious, pragmatic engineers and product people who value
 - Flexible time-off and family-friendly policies
 - Opportunity to work across product domains and AI systems
 
-Open roles: (link to jobs page or use careers@syntaxility.example.com)
+Open roles: (link to jobs page or use info.syntaxility@gmail.com)
 
 ---
 
@@ -185,28 +177,25 @@ A: Yes — for managed services we provide SLA-based support with agreed respons
 ---
 
 ## How to get started
-1. Email: contact@syntaxility.example.com
-2. Book a discovery call: https://calendly.com/syntaxility (replace with your booking link)
-3. Provide a short brief — we’ll propose a 1–2 week discovery to validate scope and deliverables
+1. Email: info.syntaxility@gmail.com
+2. Provide a short brief — we’ll propose a 1–2 week discovery to validate scope and deliverables
 
 ---
 
 ## Contact
-- Email: contact@syntaxility.example.com
-- LinkedIn: https://www.linkedin.com/company/syntaxility (replace)
-- Twitter / X: @Syntaxility (replace)
-- GitHub: https://github.com/Syntaxility (replace or add your org)
+- Email: info.syntaxility@gmail.com
+- GitHub: [https://github.com/Syntaxility](https://github.com/Syntaxility)
 
 ---
 
 ## Legal
-- Terms of Service and Privacy Policy: (link to hosted docs)
+- Terms of Service and Privacy Policy: **"future update"**
 - This README is for informational purposes only. Formal terms and scope of work are defined in our master services agreement.
 
 ---
 
 ## Branding & Assets
-Request brand assets or logos at brand@syntaxility.example.com. We provide SVG/PNG logo variants and color palette files for partners and press.
+Request brand assets or logos at **"future update"**. We provide SVG/PNG logo variants and color palette files for partners and press.
 
 ---
 
@@ -220,8 +209,3 @@ Request brand assets or logos at brand@syntaxility.example.com. We provide SVG/P
 
 ## Closing note
 Syntaxility is focused on building reliable, useful, and responsible software. Whether you’re exploring a bold AI idea or need to modernize a core system, we’d love to partner and help you ship something great.
-
----
-[![](https://visitcount.itsvg.in/api?id=TariqMehmood1004&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
